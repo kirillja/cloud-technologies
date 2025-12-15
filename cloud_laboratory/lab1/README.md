@@ -47,7 +47,7 @@
 8. Заполнение таблицы выполнялось группами по одинаковым значениям Product Code. Для таких строк значения колонок IT Tower, Service Family, Service Type и Service Sub Type оставались неизменными, а Service Usage Type менялся для каждой строки отдельно.
 
 
-Итоговый файл с заполненной сервисной моделью был сохранён и загружен.
+Итоговый файл:
 <img width="1030" height="776" alt="image" src="https://github.com/user-attachments/assets/f3ac30c5-6ee6-4bc9-aad1-f0fe7726fcd8" />
 
 
